@@ -9,6 +9,7 @@
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
 - [Styled Components](https://styled-components.com/)
 - [Polished](https://polished.js.org/)
+- [React Icons](https://react-icons.github.io/react-icons)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
