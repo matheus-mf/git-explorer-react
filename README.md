@@ -1,5 +1,8 @@
 <h1 align="center">Git Explorer feito com React e Typescript</h1>
 
+![dashboard](.github/dashboard.png)
+![repository](.github/repository.png)
+
 ## Tecnologias
 
 - [EditorConfig](https://www.notion.so/EditorConfig-5f494ae4b47248c1b16681ff74d6766c)
