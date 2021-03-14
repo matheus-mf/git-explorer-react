@@ -7,6 +7,7 @@
 - [Prettier](https://www.notion.so/Prettier-e2c6a3ec188c4cce8890a3e16a0d6425)
 - [React](https://pt-br.reactjs.org/)
 - [React Router DOM](https://reactrouter.com/web/guides/quick-start)
+- [Styled Components](https://styled-components.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
